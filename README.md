@@ -5,4 +5,40 @@ The code and data for Implicit Function Learning on fMRI Motion Correction will 
 <p align="center">
    <img src="./image/best.png" align="center" width="600">
 </p>
-<p align="center">Figure 1. SVoRT: an iterative Transformer for slice-to-volume registration. (a) The k-th iteration of SVoRT. (b) The detailed network architecture of the SVT module.<p align="center">
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+
+<p align="center">
+   <img src="./image/lamda.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+<p align="center">
+   <img src="./image/interploation.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+<p align="center">
+   <img src="./image/minor.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+<p align="center">
+   <img src="./image/severe.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+<p align="center">
+   <img src="./image/motionf.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+<p align="center">
+   <img src="./image/motions.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
+
+<p align="center">
+   <img src="./image/motionfe.png" align="center" width="600">
+</p>
+<p align="center">Figure 1. SVoRT.<p align="center">
