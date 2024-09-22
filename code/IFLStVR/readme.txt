@@ -1,0 +1,2 @@
+This is a nesvor with the new loss added, I suggest you install the new nesvor and copy the modified files from here. 
+The subscript o indicates the original file, the other subscripts indicate modifications.
